@@ -1,8 +1,8 @@
 from flask_sqlalchemy import SQLAlchemy
 
 # Variables para la configuración
-DB_USERNAME = 'admin'
-DB_PASSWORD = 'admin'
+DB_USERNAME = 'root'
+DB_PASSWORD = ''
 DB_HOST = 'localhost'
 DB_NAME = 'gestion_estudiantes'
 
